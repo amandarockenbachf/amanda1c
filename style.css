@@ -1,3 +1,10 @@
 p {
-  text-align: center;  background: #CCCCCC
+  text-align: center;
+}
+
+body{
+  background: #E0FFFF
+}
+em {
+  color: #000080;
 }
