@@ -2,6 +2,10 @@ p {
   text-align: center;
 }
 
+ul{
+  text-align: left
+}
+
 body{
   background: #E0FFFF
 }
